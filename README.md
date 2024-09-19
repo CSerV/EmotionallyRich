@@ -1,6 +1,6 @@
 # EmotionallyRich
 
-![Emotionally Rich Segments](res/Filtering.png)
+<img src="res/Filtering.png" alt="Selecting Emotionally Rich Segments" width="70%">
 
 
 ## Details
