@@ -1,5 +1,7 @@
 # EmotionallyRich
 
+![Emotionally Rich Segments](res/Filtering.png)
+
 
 ## Details
 
